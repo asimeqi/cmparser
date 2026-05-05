@@ -1,0 +1,21 @@
+<doc>
+  <dashboard>Operations Dashboard</dashboard>
+  <permissions>
+    <role>
+      <name>Admin</name>
+      <allow>
+        <action>
+              Create</action>
+        <action>Read</action>
+        <action>Update</action>
+      </allow>
+    </role>
+    <role>
+      <name>Guest</name>
+      <allow>
+        <action>Read</action>
+      </allow>
+    </role>
+  </permissions>
+  <status>Active</status>
+</doc>

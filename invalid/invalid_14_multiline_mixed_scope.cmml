@@ -1,0 +1,6 @@
+<doc>
+  <section>
+    Intro
+    <child>Nested</child>
+  </section>
+</doc>

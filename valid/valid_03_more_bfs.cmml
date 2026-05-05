@@ -1,0 +1,17 @@
+<doc>
+  <north>
+    <district>
+      <name>North Market</name>
+      <landmark>Clock Tower</landmark>
+      <landmark>Glass Depot</landmark>
+    </district>
+  </north>
+  <eastgate>East Gate</eastgate>
+  <west>
+    <district>
+      <name>West Harbor</name>
+      <landmark>Old Mill</landmark>
+    </district>
+  </west>
+  <southdock>South Dock</southdock>
+</doc>

@@ -1,0 +1,6 @@
+CMParser
+*.o
+*.obj
+*.out
+build/
+cmake-build-*/

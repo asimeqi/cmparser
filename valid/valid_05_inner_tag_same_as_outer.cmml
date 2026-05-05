@@ -1,0 +1,22 @@
+<doc>
+  <summary>Shift A summary</summary>
+  <events>
+    <event>
+      <sensor>Door</sensor>
+      <state>Open</state>
+      <priority>High</priority>
+    </event>
+    <events><event><sensor>Window</sensor></event><event><sensor>Ceiling</sensor></event></events>
+    <event>
+      <sensor>Vault</sensor>
+      <state>Locked</state>
+      <priority>Normal</priority>
+    </event>
+    <event>
+      <sensor>Roof</sensor>
+      <state>Clear</state>
+      <priority>Low</priority>
+    </event>
+  </events>
+  <footer>End of report</footer>
+</doc>

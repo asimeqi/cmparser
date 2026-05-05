@@ -1,0 +1,8 @@
+<doc>
+  <alpha>Alpha shallow</alpha>
+  <bravo>
+    <bravoone>Bravo deep one</bravoone>
+    <bravotwo>Bravo deep two</bravotwo>
+  </bravo>
+  <charlie>Charlie shallow</charlie>
+</doc>
